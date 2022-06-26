@@ -1,10 +1,10 @@
 =======
-HelloWorldToy
+HelloWorldvsCodeToy
 =============
 
-A simple toy to show off some mad skillz of python, git and markdown
+A simple toy to show off some mad skillz of vs Code, python, git and markdown
 
 *or so I hope*
 
-Updated for 2022
+Now in 2022
 

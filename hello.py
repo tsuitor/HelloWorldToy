@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
-# just adding a comment
+# generic comment
 
-print "Hello World 22!\n"
+print "Hello World vs Code in 22!\n"
 
 
